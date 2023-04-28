@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.df1cd63e.css",
+    "main.js": "/My-Portfolio/static/js/main.1eef5020.js",
+    "static/media/karim-C.V-2.pdf": "/My-Portfolio/static/media/karim-C.V-2.6f429c750091814f40df.pdf",
+    "index.html": "/My-Portfolio/index.html",
+    "main.df1cd63e.css.map": "/My-Portfolio/static/css/main.df1cd63e.css.map",
+    "main.1eef5020.js.map": "/My-Portfolio/static/js/main.1eef5020.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df1cd63e.css",
+    "static/js/main.1eef5020.js"
+  ]
+}
