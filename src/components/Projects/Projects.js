@@ -1,5 +1,7 @@
 import Book from "@material-ui/icons/Bookmark";
 import Folder from "@material-ui/icons/FolderOpen";
+
+import Personal from "../PersonalProjects/Personal";
 import "./Projects.css";
 
 const Projects = () => {
@@ -85,6 +87,8 @@ const Projects = () => {
           />
         </ol>
       </div>
+
+      <Personal />
     </article>
   );
 };
